@@ -1,4 +1,4 @@
-# Projeto de BI com datasets de vendas
+# Projeto de BI com datasets de vendas.
 
 📊 Nesse repositório desenvolvi três projetos para fins de aprendizados integrando 
 power BI juntamente com ferramentas como SQLite, M language e séries temporais. 
